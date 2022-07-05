@@ -41,8 +41,8 @@ p {
 .top-right img{
     transform: scaleX(.8) rotate(-16.3deg);
     position: relative;
-    top: 9.2%;
-    left: 11%;
+    top: 5.8%;
+    left: 9.9%;
 }
 
 .span{
@@ -77,7 +77,7 @@ a{
 .middle{
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-size: contain;
-    height: 90vh;
+    height: 95vh;
 }
 .middle-right{
     margin-right: 8%;
